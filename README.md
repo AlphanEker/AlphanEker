@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlphanEker
 - 👀 I’m interested in coding AI, mobile and OOP
-- 🌱 I’m currently learning cpp and Nodejs
+- 🌱 I’m currently learning solidity, C++, nodejs
 - 📫 How to reach me alphan.eker@ug.bilkent.edu.tr
 
 <!---
