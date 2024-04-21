@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlphanEker
-- 👀 I’m interested in coding AI, web3 and OOP
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning solidity, C++, nodejs
 - 📫 How to reach me (alphan.eker@ug.bilkent.edu.tr || alphaneker40@gmail.com)
 
